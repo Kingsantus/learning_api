@@ -1,0 +1,2 @@
+# a simple CRUD API
+## everything is working fine apart from marshmallow schema.py that stop server when user update and create product but the goodness is it still get stored into the database. I am yet to find the solution
